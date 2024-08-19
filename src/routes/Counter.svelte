@@ -11,6 +11,10 @@
 		// handle negative numbers
 		return ((n % m) + m) % m;
 	}
+
+	function hello() {
+		let name = 'Diego';
+	}
 </script>
 
 <div class="counter">
